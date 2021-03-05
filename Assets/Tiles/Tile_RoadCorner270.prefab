@@ -13,7 +13,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2116558209347077993, guid: dcedc67da391344498cf1a663352f9fb, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: 20
       objectReference: {fileID: 0}
     - target: {fileID: 2116558209347077993, guid: dcedc67da391344498cf1a663352f9fb, type: 3}
       propertyPath: m_LocalPosition.y
@@ -21,7 +21,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2116558209347077993, guid: dcedc67da391344498cf1a663352f9fb, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 2116558209347077993, guid: dcedc67da391344498cf1a663352f9fb, type: 3}
       propertyPath: m_LocalRotation.w
@@ -29,15 +29,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2116558209347077993, guid: dcedc67da391344498cf1a663352f9fb, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 2116558209347077993, guid: dcedc67da391344498cf1a663352f9fb, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 2116558209347077993, guid: dcedc67da391344498cf1a663352f9fb, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 2116558209347077993, guid: dcedc67da391344498cf1a663352f9fb, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -53,8 +53,36 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2116558209347077998, guid: dcedc67da391344498cf1a663352f9fb, type: 3}
       propertyPath: m_Name
-      value: Tile_RoadCorner270
+      value: (80, 40)
       objectReference: {fileID: 0}
+    - target: {fileID: 2116558209347077998, guid: dcedc67da391344498cf1a663352f9fb, type: 3}
+      propertyPath: m_TagString
+      value: Path
+      objectReference: {fileID: 0}
+    - target: {fileID: 4055481890582627258, guid: dcedc67da391344498cf1a663352f9fb, type: 3}
+      propertyPath: m_text
+      value: 80,40
+      objectReference: {fileID: 0}
+    - target: {fileID: 4055481890582627258, guid: dcedc67da391344498cf1a663352f9fb, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4055481890582627258, guid: dcedc67da391344498cf1a663352f9fb, type: 3}
+      propertyPath: m_fontColor.b
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4055481890582627258, guid: dcedc67da391344498cf1a663352f9fb, type: 3}
+      propertyPath: m_fontColor.g
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4055481890582627258, guid: dcedc67da391344498cf1a663352f9fb, type: 3}
+      propertyPath: m_fontColor.r
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4666540331575451508, guid: dcedc67da391344498cf1a663352f9fb, type: 3}
+      propertyPath: towerPrefab
+      value: 
+      objectReference: {fileID: 3066956421860119530, guid: 50f73a42c47d40f40a1dde19e5015a80, type: 3}
     - target: {fileID: 9082551052113747645, guid: dcedc67da391344498cf1a663352f9fb, type: 3}
       propertyPath: m_LocalRotation.w
       value: -0.7071068
